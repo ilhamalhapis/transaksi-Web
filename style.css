@@ -1,0 +1,17 @@
+body {
+  background: url(img/dark.jpg);
+  background-size: cover;
+}
+
+section {
+  padding: 3rem;
+  text-decoration-color: #ffff;
+}
+
+form {
+  padding-bottom: 3rem;
+}
+
+button {
+  padding: 4rem;
+}
